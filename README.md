@@ -14,7 +14,7 @@ A minimal, modern, and high-performance Termux setup.
 Run the following command in your Termux:
 
 ```bash
-pkg install git -y && git clone https://github.com/[YOUR_USERNAME]/Minimal-termux && cd Minimal-termux && chmod +x install.sh && ./install.sh
+pkg install git -y && git clone https://github.com/catamsp/Minimal-termux && cd Minimal-termux && chmod +x install.sh && ./install.sh
 ```
 
 *(Note: Replace `[YOUR_USERNAME]` with your actual GitHub username before running)*
