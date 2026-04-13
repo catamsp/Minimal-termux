@@ -13,7 +13,7 @@ pkg update -y && pkg upgrade -y
 echo "Installing core packages..."
 CORE_PACKAGES=(
     git zsh python nodejs-lts gh micro 
-    fzf fd-find ripgrep bat eza 
+    fzf fd ripgrep bat eza 
     starship fastfetch zoxide 
     proot proot-distro build-essential 
     ncurses-utils curl
